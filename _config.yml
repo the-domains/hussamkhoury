@@ -1,0 +1,14 @@
+layout_spectrum: 0.2893617
+typography_spectrum: 1
+color:
+  saturation: 0.03344775
+  lightness: 0.1962364
+  brandStrength: 0.3382979
+  brandColors:
+    - '#000000'
+    - '#FDFCFC'
+    - '#6E5D5B'
+    - '#B3A2A4'
+    - '#FDCC0C'
+  rhythmicContrast: 0.4923097
+name: Hussamkhoury
