@@ -1,14 +1,26 @@
-layout_spectrum: 0.2893617
-typography_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.03344775
+  brandStrength: 1
   lightness: 0.1962364
-  brandStrength: 0.3382979
   brandColors:
-    - '#000000'
-    - '#FDFCFC'
-    - '#6E5D5B'
-    - '#B3A2A4'
-    - '#FDCC0C'
+    - '#450F0F'
+    - '#E43232'
+    - '#FFFFFF'
+    - '#ABABAB'
+    - '#A38624'
   rhythmicContrast: 0.4923097
+typography_spectrum: 0.1170213
+layout_spectrum: 0.2893617
 name: Hussamkhoury
